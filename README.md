@@ -1,0 +1,2 @@
+# pyshop
+CSD Python Workshop
